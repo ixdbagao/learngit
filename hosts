@@ -1,0 +1,4 @@
+127.0.0.1   localhost
+172.16.213.78	hdpserver1
+172.16.213.77	hdpserver2
+127.0.0.1   elasticsearch
