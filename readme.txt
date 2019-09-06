@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git hello
 git 123456
 add branch info
+Creating a new branch is quick AND simple.
